@@ -1,7 +1,7 @@
 hyperion-usbasp
 ===============
 
-AVR program to turn an USBASP programmer into a WS2801/WS2812 led controller for use with Hyperion
+AVR program to turn an USBASP programmer into a WS2801/WS2812 led controller for use with [Hyperion](https://github.com/tvdzwan/hyperion).
 
 WS2801
 ------
